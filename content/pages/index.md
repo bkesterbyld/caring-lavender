@@ -17,7 +17,7 @@ sections:
     image: images/bitdomain-explainer1.png
     image_alt: Hero section placeholder image
     media_position: right
-    media_width: fourty
+    media_width: sixty
     align: left
     padding_top: large
     padding_bottom: large
